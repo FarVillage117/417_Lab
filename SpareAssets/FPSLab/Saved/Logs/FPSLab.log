@@ -3656,3 +3656,139 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.20-19.20.11:467][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.20-19.20.11:467][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6591.795898, Update Interval: 322.350525
 [2025.11.20-19.21.52:920][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.11.20-19.26.07:196][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6947.856445
+[2025.11.20-19.26.08:529][743]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-19.26.08:529][744]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6948.856445, Update Interval: 355.817749
+[2025.11.20-19.27.34:182][698]LogSlate: External Image Picker: DecompressImage failed
+[2025.11.20-19.28.42:243][886]LogSlate: Window 'Project Settings' being destroyed
+[2025.11.20-19.28.42:370][886]LogSlate: Window 'Project Settings' being destroyed
+[2025.11.20-19.30.23:355][782]Cmd: DELETE
+[2025.11.20-19.30.23:356][782]Cmd: ACTOR DELETE
+[2025.11.20-19.30.23:360][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.20-19.30.23:425][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.20-19.30.23:430][782]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2025.11.20-19.30.25:390][817]Cmd: DELETE
+[2025.11.20-19.30.25:390][817]Cmd: ACTOR DELETE
+[2025.11.20-19.30.25:392][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.20-19.30.25:422][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.11.20-19.30.25:425][817]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.11.20-19.30.27:648][850]Cmd: DELETE
+[2025.11.20-19.30.27:648][850]Cmd: ACTOR DELETE
+[2025.11.20-19.30.27:652][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.20-19.30.27:689][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.11.20-19.30.27:694][850]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.11.20-19.30.30:536][897]Cmd: DELETE
+[2025.11.20-19.30.30:536][897]Cmd: ACTOR DELETE
+[2025.11.20-19.30.30:540][897]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.20-19.30.30:582][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.11.20-19.30.30:588][897]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2025.11.20-19.30.32:089][918]Cmd: DELETE
+[2025.11.20-19.30.32:089][918]Cmd: ACTOR DELETE
+[2025.11.20-19.30.32:095][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.20-19.30.32:151][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.20-19.30.32:158][918]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2025.11.20-19.30.33:711][943]Cmd: DELETE
+[2025.11.20-19.30.33:711][943]Cmd: ACTOR DELETE
+[2025.11.20-19.30.33:715][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.20-19.30.33:746][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.11.20-19.30.33:749][943]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.11.20-19.30.35:791][973]Cmd: DELETE
+[2025.11.20-19.30.35:793][973]Cmd: ACTOR DELETE
+[2025.11.20-19.30.35:796][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.20-19.30.35:837][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.20-19.30.35:844][973]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2025.11.20-19.30.37:257][994]Cmd: DELETE
+[2025.11.20-19.30.37:257][994]Cmd: ACTOR DELETE
+[2025.11.20-19.30.37:261][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.20-19.30.37:305][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.20-19.30.37:310][994]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2025.11.20-19.31.07:004][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.11.20-19.31.07:006][603]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.029
+[2025.11.20-19.33.00:012][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7360.680176
+[2025.11.20-19.33.00:201][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-19.33.00:201][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7360.824219, Update Interval: 330.548431
+[2025.11.20-19.35.12:544][652]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - ExtronScalerD (AMD High Definition Audio Device), InstanceID=1
+[2025.11.20-19.35.12:544][652]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{f718f7cb-32be-40e1-a23f-d3e55f675e26}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.20-19.35.12:568][653]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{f718f7cb-32be-40e1-a23f-d3e55f675e26}]
+[2025.11.20-19.35.12:568][653]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.20-19.35.12:568][653]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.20-19.35.13:170][658]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f718f7cb-32be-40e1-a23f-d3e55f675e26}, Name=1 - ExtronScalerD (AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=559.26
+[2025.11.20-19.35.13:170][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.20-19.35.13:171][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.20-19.35.13:179][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.20-19.36.17:169][861]LogSlate: External Image Picker: DecompressImage failed
+[2025.11.20-19.36.39:272][126]LogSlate: Window 'Project Settings' being destroyed
+[2025.11.20-19.36.39:378][126]LogSlate: Window 'Project Settings' being destroyed
+[2025.11.20-19.39.16:863][903]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7737.523438
+[2025.11.20-19.39.17:314][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-19.39.17:314][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7737.927734, Update Interval: 350.833466
+[2025.11.20-19.39.59:246][745]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2025.11.20-19.39.59:246][745]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{4c9431e6-6ee3-45b2-84b3-9b52eb9be1db}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.20-19.39.59:280][746]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{4c9431e6-6ee3-45b2-84b3-9b52eb9be1db}]
+[2025.11.20-19.39.59:280][746]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.20-19.39.59:280][746]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.20-19.40.00:626][772]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4c9431e6-6ee3-45b2-84b3-9b52eb9be1db}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1299.24
+[2025.11.20-19.40.00:626][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.20-19.40.00:626][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.20-19.40.00:633][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.20-19.41.07:394][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.11.20-19.41.07:397][156]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.056
+[2025.11.20-19.45.12:032][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.20-19.45.14:753][334]LogSlate: Window 'Save Content' being destroyed
+[2025.11.20-19.45.14:923][334]LogStall: Shutdown...
+[2025.11.20-19.45.14:923][334]LogStall: Shutdown complete.
+[2025.11.20-19.45.15:016][334]LogSlate: Window 'FPSLab - Unreal Editor' being destroyed
+[2025.11.20-19.45.15:020][334]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.11.20-19.45.15:256][334]Cmd: QUIT_EDITOR
+[2025.11.20-19.45.15:256][335]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.20-19.45.15:272][335]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.20-19.45.15:273][335]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.20-19.45.15:273][335]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.20-19.45.15:274][335]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.20-19.45.15:274][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-19.45.15:274][335]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.20-19.45.15:302][335]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.20-19.45.15:302][335]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.20-19.45.15:303][335]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.20-19.45.15:311][335]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.20-19.45.15:312][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-19.45.15:312][335]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.20-19.45.15:312][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-19.45.15:313][335]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.20-19.45.15:314][335]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.20-19.45.15:340][335]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.20-19.45.15:343][335]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.20-19.45.15:343][335]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.20-19.45.15:343][335]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2025.11.20-19.45.15:343][335]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.20-19.45.15:344][335]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.20-19.45.15:348][335]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.20-19.45.15:361][335]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.20-19.45.15:361][335]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.20-19.45.15:368][335]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.20-19.45.15:370][335]LogExit: Preparing to exit.
+[2025.11.20-19.45.15:452][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.11.20-19.45.15:934][335]LogEditorDataStorage: Deinitializing
+[2025.11.20-19.45.16:067][335]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.20-19.45.16:124][335]LogExit: Editor shut down
+[2025.11.20-19.45.16:134][335]LogExit: Transaction tracking system shut down
+[2025.11.20-19.45.16:421][335]LogExit: Object subsystem successfully closed.
+[2025.11.20-19.45.16:470][335]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.20-19.45.16:622][335]LogMemoryProfiler: Shutdown
+[2025.11.20-19.45.16:622][335]LogNetworkingProfiler: Shutdown
+[2025.11.20-19.45.16:622][335]LoadingProfiler: Shutdown
+[2025.11.20-19.45.16:622][335]LogTimingProfiler: Shutdown
+[2025.11.20-19.45.16:622][335]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.20-19.45.16:622][335]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.20-19.45.17:106][335]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.20-19.45.17:106][335]RenderDocPlugin: plugin has been unloaded.
+[2025.11.20-19.45.17:141][335]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.20-19.45.17:141][335]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3C0012A-415F-F0B3-A9F1-5EA1064E4B7C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3b10ea4642007b4071aa3ebf4a2a529d%7C87dfe9b80553444da63396940350204e%7Ca2065ff8-3252-420d-95ed-67b70053b2ce&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.20-19.45.17:696][335]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.20-19.45.17:705][335]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.20-19.45.17:709][335]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.20-19.45.17:709][335]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.20-19.45.17:710][335]LogPakFile: Destroying PakPlatformFile
+[2025.11.20-19.45.18:357][335]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.20-19.45.18:403][335]LogExit: Exiting.
+[2025.11.20-19.45.18:457][335]Log file closed, 11/20/25 14:45:18
